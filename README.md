@@ -29,3 +29,22 @@ To run the game:
 To deactivate the virtual environment:
 `deactivate`
 
+
+# Revision
+
+### Revised by Chandler Bryant, Shawn Melwani, Drake Nguyen
+
+#### Tests
+
+
+#### Improvements
+
+Newmain.py
+Lines 
+237-244: Added code
+323-329: Redid loop 
+368 - 376: Changed text to add controls nd redid position functions
+
+132: Assigned bullet image
+291-312: Added bullet functionality
+
